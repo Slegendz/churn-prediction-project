@@ -49,3 +49,5 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
+
+temp.ipynb
