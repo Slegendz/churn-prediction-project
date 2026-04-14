@@ -16,6 +16,7 @@ env/
 ENV/
 .venv/
 
+models/*
 client_secrets.json
 .env
 *.env
